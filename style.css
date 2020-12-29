@@ -24,7 +24,6 @@ header{
     color: var(--bg-note);
     font-size: 30px;
     font-weight: 600;
-    font-family: 'Poppins', sans-serif;
 }
 
 .btn-add{
